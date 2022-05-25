@@ -1,0 +1,47 @@
+body {
+    background-image: url(../images/purple.jpeg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    color: white;
+
+}
+
+#name {
+    position: absolute;
+    top: 5%;
+    left: 55%;
+
+
+}
+
+#goodluck img {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    border-radius: 0% 50% 0% 50%;
+    flex: 1 auto
+}
+
+#article {
+    position: absolute;
+    left: 48%;
+    top: 15%;
+    height: 50%;
+    width: 50%;
+}
+
+#caption {
+    position: absolute;
+    left: 25%;
+    top: 86%;
+}
+
+#readmore {
+    position: absolute;
+    left: 70%;
+    top: 90%;
+    margin: 2%;
+    border: 1px solid border-radius: 3px;
+    color: white;
+    background-color: grey;
+}
